@@ -13802,5 +13802,238 @@
         ],
         "Image": "images/Oct17_2024.jpeg",
         "Answer": "E"
+    },
+    {
+        "ID": 987,
+        "Date": "October 24,2024",
+        "Question": "A 44-year-old man with Crohn’s disease that was being treated with infliximab presented with a 2-day history of a facial rash. In the previous week, his daughter had had a sore throat, and his mother had developed a similar rash on her face. His heart rate was 96 beats per minute, and his temperature was 36.6°C (97.9°F). Physical examination was notable for well-demarcated, warm, erythematous, confluent plaques on the cheeks, nose, and glabella. The pharynx was normal, and no cervical lymphadenopathy was observed. Which of the following is the most likely culprit organism for the underlying diagnosis?", 
+        "Options": [
+	   "Escherichia coli",
+           "Pseudomonas aeruginosa",
+           "Staphylococcus aureus", 
+           "Staphylococcus epidermidis", 
+           "Streptococcus pyogenes"
+         ],
+         "Image": "images/Oct24_2024.jpeg",
+         "Answer": "E"
+    },
+    {
+        "ID": 988,
+        "Date": "October 31,2024",
+        "Question": "A 3-year-old boy was brought to the endocrinology department with an 18-month history of bowing of the left leg that had resulted in regression of his ability to walk. On physical examination, there was lateral bowing of the left femur and anterior bowing of the left tibia, as well as testicular enlargement. Café au lait spots were also noted on the lower back, cheek, and neck. Radiographs of the wrist, femur, and tibia on the left side showed fibrous dysplasia (arrows) and rickets. What is the most likely diagnosis in this case?",
+       "Options": [
+            "Carney complex",
+            "Fanconi anemia",
+            "McCune–Albright syndrome",
+            "Neurofibromatosis type 1 (NF1)",
+            "Osteofibrous dysplasia"
+        ],
+        "Image": "images/Oct31_2024.jpeg",
+        "Answer": "C"
+   },
+   {
+       "ID": 989,
+       "Date":"Novemeber 7,2024",
+       "Question":  "A 30-year-old man presented with a 6-month history of depressed skin lesions on his back. On physical examination, numerous well-defined, erythematous, atrophic plaques were noted across the back. A fluorescence staining preparation of skin scrapings showed thick fungal hyphae and yeast cells with a “spaghetti and meatballs” pattern. What is the most likely causative organism for this skin infection?",
+       "Options": [
+          "Candida species",
+          "Epidermophyton species",
+          "Malassezia species",
+          "Microsporum species",
+          "Trichophyton species"
+        ],
+       "Image": "images/Nov07_2024.jpeg",
+       "Answer": "C"
+   },
+   {
+       "ID": 990,
+       "Date": "November 14,2024",
+       "Question": "A previously healthy 18-month-old girl was brought to the emergency department with sudden-onset abdominal distention that had been preceded by 3 days of diarrhea and 1 day of vomiting. On physical examination, the patient appeared lethargic and dehydrated. The abdomen was markedly distended with decreased bowel sounds, but there was no tenderness or guarding. An abdominal radiograph, obtained with the patient in the supine position, showed three circular radiopaque objects in the intestines, along with dilated loops of bowel. What is the most appropriate next step in this case?",
+
+       "Options": [
+          "Colonoscopy retrieval",
+          "Emergency exploratory laparotomy",
+          "Laxatives",
+          "Observation and monitoring",
+          "Serial imaging"
+       ],
+       "Image": "images/Nov14_2024.jpeg",
+       "Answer": "B"
+   },
+   {
+       "ID": 991,
+       "Date": "November 21,2024",
+       "Question": "A 40-year-old man presented with a 2-day history of a burning rash on both hands. Physical examination was notable for a confluent region of erythema extending from the dorsal aspect of the thumbs to the medial aspect of the second finger. Scattered patches of erythema were observed on the knuckles and other fingers, and a small blister was noted on the base of the left thumb. What is the most likely diagnosis?",
+
+       "Options": [
+          "Atopic dermatitis",
+          "Hand, foot, and mouth disease",
+          "Irritant contact dermatitis",
+          "Phytophotodermatitis",
+          "Porphyria cutanea tarda"
+        ],
+        "Image": "images/Nov21_2024.jpeg",
+        "Answer": "C"
+    },
+   {
+        "ID": 992,
+        "Date": "November 28,2024",
+        "Question": "A previously healthy 32-year-old woman presented with a 2-hour history of severe chest pain at rest. An electrocardiogram showed ST-segment elevations in leads II, III, and aVF with reciprocal ST-segment depressions in leads I and aVL. An initial troponin I level was normal. Owing to concern for acute coronary syndrome, emergency coronary angiography was performed, which showed an abrupt caliber change extending from the proximal to the distal right coronary artery. What is the most likely etiology of arterial injury?",
+       "Options": [
+          "Atherosclerotic plaque rupture and distal occlusion",
+          "Atherosclerotic stenosis",
+          "Coronary arteritis",
+          "Dissection",
+          "Vasospasm"
+       ],
+       "Image": "images/Nov28_2024.jpeg",
+       "Answer": "D"
+    },
+    {
+        "ID": 993,
+        "Date": "December 05,2024",
+        "Question": "A previously healthy 10-year-old boy was brought to the pediatric emergency department with a 4-day history of progressively worsening bruising around the eyelids. Four weeks prior, he developed a dry cough, which had intensified over the previous week. The patient was up to date on routine vaccinations and had no history of trauma or bleeding disorders. On physical examination, ecchymosis was noted on the eyelids, along with subconjunctival hemorrhages in both eyes. A complete ophthalmologic examination was otherwise normal. Which of the following is the most likely etiology of the patient’s symptoms and findings?", 
+       "Options": [
+          "Acute lymphoblastic leukemia",
+          "Influenza",
+          "Inhaled foreign body",
+          "Leptospirosis",
+          "Pertussis"
+       ],
+       "Image": "images/Dec05_2024.jpeg",
+       "Answer": "E"
+    },
+    {
+        "ID": 994,
+        "Date": "December 12,2024",
+        "Question": "A 63-year-old man with a history of coronary-artery bypass grafting presented with a 2-month history of angina that occurred during exertion of the left arm. Five years before presentation, he had undergone grafting of the left internal thoracic artery (LITA) to the left anterior descending (LAD) coronary artery. The blood pressure was 128/84 mm Hg in the right arm and unmeasurable in the left arm. On physical examination, the brachial and radial pulses on the left side were feeble. A computed tomographic angiogram of the aorta and neck vessels showed total occlusion of the subclavian artery on the left side, proximal to the origin of the LITA. Which of the following is the most likely diagnosis?",
+       "Options": [
+          "Aortic Arch Syndrome",
+          "Congenital Atretic Subclavian Artery",
+          "Coronary-Artery Bypass Graft Failure",
+          "Coronary-Subclavian Steal Syndrome",
+          "Thoracic Outlet Syndrome"
+       ],
+       "Image": "images/Dec12_2024.jpeg",
+       "Answer": "D"
+    },
+    {
+        "ID": 995,
+        "Date": "December 19,2024",
+        "Question": "A newborn boy was admitted to the neonatal intensive care unit for management of a congenital abnormality, which had first been identified on an antenatal ultrasound image at 20 weeks’ gestation. A physical examination was notable for the presence of a red, fluid-filled sac, measuring 7.7 cm by 7.1 cm by 5.3 cm, that protruded through a lumbosacral defect. Subsequent magnetic resonance imaging of the spine confirmed the finding. What is the most likely diagnosis?", 
+
+       "Options": [
+          "Dandy-Walker syndrome",
+          "Hemangioma",
+          "Meningocele",
+          "Presacral neurenteric cyst",
+          "Spina bifida occulta"
+       ],
+       "Image": "images/Dec19_2024.jpeg",
+       "Answer": "C"
+    },
+    {
+        "ID": 996,
+        "Date": "December 26,2024",
+        "Question": "A 90-year-old man with atrial fibrillation and dementia presented to the hospital with sudden onset of dyspnea that had begun 1 hour earlier. Before admission, he had not been taking anticoagulation therapy on the basis of discussions of his preferences with his primary care physician. Physical examination was notable for tachypnea and tachycardia. On chest radiography, the pulmonary vasculature was not visible in the right lung fields. In addition, the right descending pulmonary artery was enlarged. What diagnosis is suggested by these chest radiograph appearances?", 
+       "Options": [
+          "Ascending Aortic Aneurysm",
+          "Atrial septal defect",
+          "Bullous emphysema",
+          "Pulmonary embolism",
+          "Pulmonary arterial hypertension"
+       ],
+       "Image": "images/Dec26_2024.jpeg",
+       "Answer": "D"
+    }, 
+    {
+        "ID": 997,
+        "Date": "January 2,2025",
+        "Question": "An 84-year-old man with benign prostatic hyperplasia who had been admitted to the hospital with acute kidney injury due to obstructive uropathy was noted to have gray skin. The skin changes had been present for 5 years. On physical examination, diffuse slate-gray pigmentation of the skin, particularly on the face, hands and nails, and sclera, was seen. A skin biopsy revealed small, dark granules in the basement membrane of sweat glands and in pilosebaceous units, blood vessels, and elastic fibers in the dermis. What is the diagnosis?", 
+       "Options": [
+          "Amiodarone-induced hyperpigmentation",
+          "Argyria",
+          "Hemochromatosis",
+          "Minocycline-induced hyperpigmentation",
+          "Wilson’s disease"
+       ],
+       "Image": "images/Jan02_2025.jpeg",
+       "Answer": "B"
+    }, 
+    {
+        "ID": 998,
+        "Date": "January 9,2025",
+        "Question": "A 66-year-old woman with a history of metastatic breast cancer presented with a 1-month history of an asymptomatic, lacy rash on her left thigh. The rash did not vary with changes in environmental temperature. Her breast cancer treatment had been interrupted 3 months before presentation by the coronavirus disease 2019 pandemic. Physical examination was notable for an irregular, broken, netlike pattern of mottling on the left thigh that extended to the knee and lower leg. Testing for autoimmune conditions, thrombophilia, and coagulation disorders was negative. A skin-biopsy sample obtained from the left thigh showed atypical large cells within the vasculature of the reticular dermis that were positive for cytokeratin 7 and GATA-binding protein 3 on immunohistochemical staining. What is the diagnosis?", 
+       "Options": [
+          "Cutis marmorata",
+          "Erythema ab igne",
+          "Intravascular lymphoma",
+          "Livedo racemosa",
+          "Livedo reticularis"
+       ],
+       "Image": "images/Jan09_2025.jpeg",
+       "Answer": "D"
+    }, 
+    {
+        "ID": 999,
+        "Date": "January 16,2025",
+        "Question": "A 34-year-old woman with human immunodeficiency virus (HIV) infection presented with a 3-day history of a blind spot in her right eye. One week before the current presentation, the HIV viral load was 57 copies per milliliter (reference value, <20) and the CD4 cell count was 81 per cubic millimeter (reference range, 500 to 1500). On eye examination, visual acuity was 20/50 in the right eye and 20/20 in the left eye. Fundoscopy of the right eye revealed fulminant retinitis with dense areas of retinal necrosis and hemorrhage. The left eye, which had been asymptomatic, had similar changes. What is the diagnosis?", 
+
+       "Options": [
+          "Cytomegalovirus retinitis",
+          "Herpes simplex retinitis",
+          "HIV retinopathy",
+          "Retinal vasculitis from ocular syphilis",
+          "Toxoplasma retinitis"
+       ],
+       "Image": "images/Jan16_2025.jpeg",
+       "Answer": "A"
+    },
+    {
+        "ID": 1000,
+        "Date": "January 23,2025",
+        "Question": "A previously healthy 10-month-old girl was referred to the pediatric dermatology clinic with a 6-month history of an intermittently itchy and swollen skin lesion on her neck that had gradually increased in size. On physical examination, a thin, well-demarcated, tan plaque was seen on the neck. The lesion was rubbed firmly with a tongue depressor for 5 seconds, and within a few minutes it became edematous with a flare of surrounding erythema — a finding known as Darier’s sign. What is the most likely diagnosis?", 
+       "Options": [
+         "Dermatofibroma", 
+         "Juvenile Xanthogranuloma (JXG)", 
+         "Langerhans Cell Histiocytosis (LCH)", 
+         "Solitary Mastocytoma", 
+         "Spitz Nevus" 
+       ],
+       "Image": "images/Jan23_2025.jpeg",
+       "Answer": "D"
+    }, 
+    {
+        "ID": 1001,
+        "Date": "January 30,2025",
+        "Question": "A 29-year-old man with well-controlled human immunodeficiency virus infection presented with a 1-week history of a painful, whitish discoloration on his tongue. He also reported a 4-week history of painful ulcers on the scrotum. Physical examination showed smooth, pink, guttate macules on the tongue that were within a white coating that did not wipe off. No rash, ulcer, or lymphadenopathy was seen on genital examination; the reported lesions were presumed to have already resolved. Which of the following is the most likely cause of this patient’s tongue changes?", 
+       "Options": [
+          "Geographic tongue",
+          "Lichen Planus",
+          "Oral leukoplakia",
+          "Secondary syphilis",
+          "Squamous Cell Carcinoma"
+       ],
+       "Image": "images/Jan30_2025.jpeg",
+       "Answer": "D"
+    }, 
+    {
+        "ID": 1002,
+        "Date": "February 06,2025",
+        "Question": "An 84-year-old man with a history of melanoma of the right forehead complicated by in-transit metastases to the scalp presented to the dermatology clinic. Seven months prior, treatment with two immunotherapy agents had been started, which had resulted in shrinking of the metastatic scalp nodules. On physical examination, there were multiple blue-gray macules on the scalp, as well as an unhealed ulcer from trauma. Dermoscopy-guided biopsy of four macules revealed scattered melanin-laden macrophages within the superficial and middle dermis without any evidence of residual melanoma. Immunohistochemical staining of a biopsy sample for markers of melanoma was also negative. What is the most likely diagnosis?",
+       "Options": [
+          "Lentigo maligna",
+          "Metastatic melanoma",
+          "Post inflammatory hyperpigmentation",
+          "Solar lentigo",
+          "Tumoral melanosis"
+       ],
+       "Image": "images/Feb06_2025.jpeg",
+       "Answer": "E"
     }
+
+
+
+
+
 ]
